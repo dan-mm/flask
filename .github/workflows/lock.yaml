@@ -5,6 +5,7 @@ name: 'Lock threads'
 # rather than continuing discussions on old issues.
 
 on:
+  workflow_dispatch:
   # schedule:
   #   - cron: '0 0 * * *'
 
